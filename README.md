@@ -2,6 +2,11 @@
 
 ### This repository contains a notebook for the analysis in the study: Cognitively Biased Users Interacting with Algorithmically Biased Results in Whole-Session Search on Debated Topics
 
+### Study procedure
+
+![study_procedure](https://github.com/zwben/Cognitively-Biased-Users-Algorithmically-Biased-System/assets/44130304/be4c0d26-d566-4988-8d84-bd577b970414)
+
+
 ### Used variables
 
 **demographic**
