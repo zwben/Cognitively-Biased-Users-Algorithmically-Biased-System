@@ -4,10 +4,14 @@
 
 ### Used variables
 
-**demographic **
+**demographic**
+
 `'ResponseId', 'Gender', 'Age', 'Commitment',`
-**pre task attitude, information source, prior knowledge, openness**
+
+**pre-task attitude, information source, prior knowledge, openness**
+
 `'Attitude_1', 'Source', 'Knowledge_1', 'Pre tolerance',`
+
 **post query attitude, perceptions diversity and familiarity**
 ```
 'Post q1 attitude_1', 'Post q1 perception_1', 'Post q1 familiarity_1', 
@@ -21,11 +25,17 @@
 'Explain q3 click', 'Explain q3 click_10_TEXT', 'Explain q3 mark', 'Explain q3 mark_10_TEXT',
 ```
 **flipped (the first query is biased) or not (balanced)**
+
 `'QueryOrder',`
+
 **task and topic conditions**
+
 `'topic', 'topic_class', 'condition',`
+
 **condition of each query**
+
 `'random_q1', 'random_q2', 'random_q3',`
+
 **interaction array**
 ```
 'click_q1', 'dwelltime_q1', 'sequence_q1', 'bookmark_q1', 'more_q1',
@@ -35,14 +45,22 @@
 'click_q3', 'dwelltime_q3', 'sequence_q3', 'bookmark_q3', 'more_q3', 
 'usefulness_q3', 'credibility_q3',
 ```
-**attidute direction and strength**
+**attitude direction and strength**
+
 `'Att_direct', 'Att_strength',`
+
 **directional attitude changes**
+
 `'att_change_q1', 'att_change_q2', 'att_change_q3',`
+
 **absolute attitude changes**
+
 `'att_step_q1', 'att_step_q2', 'att_step_q3', 'att_step_total',`
+
 **direction of selected query's attitude**
+
 `'q1_direct_att', 'q2_direct_att', 'q3_direct_att',`
+
 **aggregated interaction**
 
 ```
@@ -68,8 +86,6 @@
 'click_q3_prop', 'click_q3_prop_nor', 'dwelltime_q3_prop',
 'usefulness_q3_prop', 'credibility_q3_prop'
 ```
-
-
 
 ### Publication
 ```
